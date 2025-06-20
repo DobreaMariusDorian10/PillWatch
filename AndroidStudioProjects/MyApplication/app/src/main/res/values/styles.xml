@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Tema globală pentru aplicație fără ActionBar -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Poți adăuga personalizări aici -->
+    </style>
+
+</resources>

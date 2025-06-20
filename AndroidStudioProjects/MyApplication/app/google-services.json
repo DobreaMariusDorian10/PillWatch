@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "713496437362",
+    "firebase_url": "https://myproject-afa53-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "myproject-afa53",
+    "storage_bucket": "myproject-afa53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713496437362:android:7c6afe42f2423b1005d8eb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoSlf3nZB-gVN3_uye1ippNk1uSUgFN7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
